@@ -47,9 +47,6 @@ def main():
 
     productivity_system.track(employees, 40)
     payroll_system.calculate_payroll(employees)
-
-    # Additional code...
-
-
+    
 if __name__ == "__main__":
     main()
